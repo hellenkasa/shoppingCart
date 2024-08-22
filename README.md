@@ -1,5 +1,1 @@
-Created a Shopping Cart using React and Redux
-
-React
-Redux
-Tailwind Css
+Created a Shopping Cart using React,Redux and Tailwind Css
